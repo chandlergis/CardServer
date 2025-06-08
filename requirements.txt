@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pyppeteer
+beautifulsoup4
+oss2
+markdown
